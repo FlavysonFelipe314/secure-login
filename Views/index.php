@@ -1,0 +1,1 @@
+<h1>Oi. <?= $user->getName()?></h1>
